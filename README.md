@@ -14,5 +14,7 @@ Mathematical Foundation⬇️
 
 **Linear Algebra**
 **Statistics & Probability**
-
 **Calculus**
+
+Machine Learning (ML)⬇️
+
