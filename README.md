@@ -12,3 +12,7 @@ Programming Toolkit⬇️
  
 Mathematical Foundation⬇️
 
+**Linear Algebra**
+**Statistics & Probability**
+
+**Calculus**
