@@ -12,8 +12,8 @@ Programming Toolkit⬇️
  
 Mathematical Foundation⬇️
 
-**Linear Algebra**
-**Statistics & Probability**
+**Linear Algebra**                                                      
+**Statistics & Probability**                                             
 **Calculus**
 
 Machine Learning (ML)⬇️
