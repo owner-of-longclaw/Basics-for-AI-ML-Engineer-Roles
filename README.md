@@ -19,6 +19,6 @@ Mathematical Foundation⬇️
 Machine Learning (ML)⬇️
 
 **Supervised vs. Unsupervised Learning**                                                           
-**The Bias-Variance Tradeoff**
+**The Bias-Variance Tradeoff**                                                        
 **Evaluation Metrics**
 
